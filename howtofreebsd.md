@@ -1,14 +1,16 @@
+## freebsd  
+
 先調整時間 !!!
-# tzsetup
+## tzsetup
 CST
 
-# freebsd-update fetch
-# freebsd-update install
+freebsd-update fetch
+freebsd-update install
 
 # sudo pkg update
 
-# pkg install nano
-  pkg install sudo
+pkg install nano
+pkg install sudo
 
 # pw user mod username -G wheel
 
